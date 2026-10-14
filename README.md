@@ -1,5 +1,5 @@
 # Hi, I'm Chau Vu (@chauvuusvn) 👋
-### AI Systems Architect & Core Big Tech Open Source Contributor
+### AI Systems & Infrastructure | Open Source Contributor
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Email](https://img.shields.io/badge/Email-contact%40mypaychecktax.com-informational?style=flat-square&logo=mail.ru&logoColor=white)](mailto:contact@mypaychecktax.com)
